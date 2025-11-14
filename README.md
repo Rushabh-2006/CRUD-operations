@@ -1,2 +1,5 @@
 # CRUD-operations
- The CRUD operations manage employee records efficiently. The Add Employee module collects details through a form, processed by a servlet and saved using JDBC. The View Employee module fetches all employee data via a SELECT query and displays it on a JSP page, helping users view and manage records easily.
+NAME:- RUSHABH TOLIA
+
+DESCRIPTION:-
+This project is a simple Java-based web application that demonstrates basic CRUD (Create, Read, Update, Delete) operations using Servlets, JSP, and JDBC. It allows users to manage employee records through a clean and interactive web interface. The application collects employee details through JSP forms, processes the data using Servlets, and performs database operations using JDBC. The Add Employee module inserts new employee information into the database, while the View Employee module retrieves and displays stored records in a structured table format. The Update and Delete modules allow users to modify or remove employee details easily, ensuring complete data management functionality. The project follows the MVC architecture, where Servlets handle the controller logic, JSP handles the user interface, and JDBC manages database connectivity. This project is ideal for beginners learning Advanced Java and for understanding how Java web applications interact with databases.
